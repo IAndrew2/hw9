@@ -1,0 +1,26 @@
+{
+  "name": "hw9",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-sessions": "^1.0.6",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAndrew2/hw9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAndrew2/hw9/issues"
+  },
+  "homepage": "https://github.com/IAndrew2/hw9#readme"
+}
